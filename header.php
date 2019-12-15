@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
@@ -5,21 +15,21 @@
 
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right">
-    <div class="topnav" id="myTopnav">
-      <a href="#about" class="w3-bar-item w3-button">About</a>
-      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
-      <a href="essays.html" class="w3-bar-item w3-button">Essays</a>
-      <a href="pedagogy.html" class="w3-bar-item w3-button">Teaching</a>
-      <a href="methods.html" class="w3-bar-item w3-button">Methods</a>
-      <a href="maps.html" class="w3-bar-item w3-button">Maps</a>
-      <a href="data.html" class="w3-bar-item w3-button">Data</a>
-      <a href="bibliography.html" class="w3-bar-item w3-button">Bibliography</a>
-      <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-    </div>
+      <div class="topnav" id="myTopnav">
+        <a href="#about" class="w3-bar-item w3-button">About</a>
+        <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+        <a href="essays.html" class="w3-bar-item w3-button">Essays</a>
+        <a href="pedagogy.html" class="w3-bar-item w3-button">Teaching</a>
+        <a href="methods.html" class="w3-bar-item w3-button">Methods</a>
+        <a href="maps.html" class="w3-bar-item w3-button">Maps</a>
+        <a href="data.html" class="w3-bar-item w3-button">Data</a>
+        <a href="bibliography.html" class="w3-bar-item w3-button">Bibliography</a>
+        <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+      </div>
     </div>
     </div>
   </div>
-
+</div>
 
 <script>
     function myFunction() {
@@ -42,3 +52,9 @@
     <h1 class="w3-xxlarge w3-text-white"><span class="w3-hide-small w3-text-light-grey">EDITED BY JASON M. KELLY</span></h1>
   </div>
 </header>
+
+
+</body>
+</html>
+
+
