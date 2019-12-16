@@ -241,17 +241,15 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   }
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
-/* Question: how do I prevent first-child (i.e. "About') from being displayed? */
 @media screen and (max-width: 600px) {
-  .topnav a:not(:first-child), .dropdown .dropbtn {
-    display: none;
-  }
+    .topnav a:not(:first-child), .dropdown .dropbtn {
+      display: none;
+    }
     .topnav a.icon {
       float: right;
       display: block;
     }
   }
-
   
   /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
   @media screen and (max-width: 600px) {
@@ -274,32 +272,3 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
       text-align: left;
     }
   }
-
-
-  /* Footers CSS -- Experiment for footer2.PHP and footer2-testpage.php */
-  /* this is not aligning properly, because the padding is too wide -- need to nest differently */
-
-  footer2{
-    height: auto;
-    padding:1px 15px;
-    width:100%;
-    }
-   #footer_links{
-    float:left;
-    width:33.3%;  
-    padding:20px;
-    text-align: left;
-   }
-   #values{
-    width:33.3%;        
-    float:left;
-    padding:20px;
-    text-align: center;
-    }
-   #contacts{
-   float: left;
-   width:33.3%; 
-   padding:20px;
-   text-align: right;
-   }
- 

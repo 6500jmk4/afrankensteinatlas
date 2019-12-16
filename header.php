@@ -18,13 +18,13 @@
     <div class="w3-right">
       <div class="topnav" id="myTopnav">
         <a href="#about" class="w3-bar-item w3-button">About</a>
-        <a href="#contact" class="w3-bar-item w3-button">Contact</a>
-        <a href="essays.html" class="w3-bar-item w3-button">Essays</a>
-        <a href="pedagogy.html" class="w3-bar-item w3-button">Teaching</a>
-        <a href="methods.html" class="w3-bar-item w3-button">Methods</a>
+        <a href="contact.php" class="w3-bar-item w3-button">Contact</a>
+        <a href="essays.php" class="w3-bar-item w3-button">Essays</a>
+        <a href="pedagogy.php" class="w3-bar-item w3-button">Teaching</a>
+        <a href="methods.php" class="w3-bar-item w3-button">Methods</a>
         <a href="maps.php" class="w3-bar-item w3-button">Maps</a>
-        <a href="data.html" class="w3-bar-item w3-button">Data</a>
-        <a href="bibliography.html" class="w3-bar-item w3-button">Bibliography</a>
+        <a href="data.php" class="w3-bar-item w3-button">Data</a>
+        <a href="bibliography.php" class="w3-bar-item w3-button">Bibliography</a>
         <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
       </div>
     </div>
