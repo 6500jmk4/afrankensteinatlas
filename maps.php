@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
 
-<!-- BEGIN mynav.php INCLUDE -->
-<?php include "header.php"; ?>
-<!-- END mynav.php INCLUDE -->
+<!-- BEGIN header.php INCLUDE -->
+  <?php include("./header.php");
+  ?>
 
 <!-- Page content -->
 <div class="w3-content w3-padding" style="max-width:1564px">
@@ -26,9 +26,9 @@
 </div>
 
 
-<!-- BEGIN mynav.php INCLUDE -->
-<?php include "footer.php"; ?>
-<!-- END mynav.php INCLUDE -->
+<!-- BEGIN footer.php INCLUDE -->
+<?php include("./footer.php"); 
+?>
 
 </body>
 </html>
