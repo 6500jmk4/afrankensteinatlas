@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <link rel="stylesheet" href="frankenstein_home.css">
+  <title>Frankenstein Atlas Header</title>
 </head>
 <body>
 
@@ -21,7 +22,7 @@
         <a href="essays.html" class="w3-bar-item w3-button">Essays</a>
         <a href="pedagogy.html" class="w3-bar-item w3-button">Teaching</a>
         <a href="methods.html" class="w3-bar-item w3-button">Methods</a>
-        <a href="maps.html" class="w3-bar-item w3-button">Maps</a>
+        <a href="maps.php" class="w3-bar-item w3-button">Maps</a>
         <a href="data.html" class="w3-bar-item w3-button">Data</a>
         <a href="bibliography.html" class="w3-bar-item w3-button">Bibliography</a>
         <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
