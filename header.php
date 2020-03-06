@@ -17,7 +17,7 @@
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right">
       <div class="topnav" id="myTopnav">
-        <a href="#about" class="w3-bar-item w3-button">About</a>
+        <a href="index.php" class="w3-bar-item w3-button">About</a>
         <a href="contact.php" class="w3-bar-item w3-button">Contact</a>
         <a href="essays.php" class="w3-bar-item w3-button">Essays</a>
         <a href="pedagogy.php" class="w3-bar-item w3-button">Teaching</a>

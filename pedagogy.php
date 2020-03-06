@@ -14,7 +14,14 @@
 <!-- Pedagogy Section -->
 <div class="w3-container w3-padding-32" id="Pedagogy">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16"> Pedagogical Framework</h3>
-    <p>The initial coursework for A Frankenstein Atlas focused on creating four outputs: 1) a schema through which to analyze Mary Shelley's 1818 edition of Frankenstein; 2) a gazetteer that linked eighteenth-century place names, modern place names, and geographical coordinates; 3) a data set that traced character movement through time and space and which linked this to their actions and emotions as well as Mary Shelley's use of aesthetics theory in her description of place; 4) a series visualizations and textual and visual annotations using Google maps that introduced students to the functionalities of .kml. Consequently, the coursework associated with A Frankenstein Atlas was part GIS exercise, part visual essay, and part document analysis that examined the historical, intertextual, and imaginative spaces of Shelley’s novel.</p>
+    <p>The initial coursework for A Frankenstein Atlas focused on creating four outputs: 
+        <ol>
+            <li>a schema through which to analyze Mary Shelley's 1818 edition of Frankenstein;</li>
+            <li>a gazetteer that linked eighteenth-century place names, modern place names, and geographical coordinates;</li>
+            <li>a data set that traced character movement through time and space and which linked this to their actions and emotions as well as Mary Shelley's use of aesthetics theory in her description of place;</li>
+            <li>a series visualizations and textual and visual annotations using Google maps that introduced students to the functionalities of .kml. Consequently, the coursework associated with A Frankenstein Atlas was part GIS exercise, part visual essay, and part document analysis that examined the historical, intertextual, and imaginative spaces of Shelley’s novel.</li>
+        </ol> 
+    </p>
 
     <p>The learning outcomes for the project are summarized below:</p> 
     <p>By the end of this project, students will develop new and enriched knowledge, competencies, and skills as outlined below.</p>

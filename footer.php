@@ -11,21 +11,18 @@
     
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
-  <p>To cite this project, please use Kelly, Jason M., ed., "A Frankenstein Atlas" (2019). Accessed on 
+  <p>To cite this project, please use Kelly, Jason M., ed., <i>A Frankenstein Atlas</i> (2019). Accessed on 
     <?php echo date("Y/m/d")
     ?>.
   </p>
-  <p>Contact</p>
-  <p>Donate</p>
-
-
-  <footer>
-    <div id="footer_links">footer links</div>
-    <div id="values">value</div>
-    <div id="contacts">contacts</div>
-    <div id="copyright">copyright</div>
-</footer>
-
+  <h3>Contact</h3>
+  IUPUI Arts & Humanities Institute<br>
+  755 W. Michigan St., UL 4115T<br>
+  Indianapolis, IN, 46032<br>
+  email: <a href="mailto:jaskelly@iupui.edu">jaskelly@iupui.edu</a><br>
+  phone: 317-274-1689<br>
+  </p>
+  
 </footer>
 
 </body>
